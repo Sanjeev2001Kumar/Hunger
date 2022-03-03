@@ -1,0 +1,25 @@
+.nav-item{
+    padding-left: 15%;
+}
+.navbar-brand{
+    color: rgb(155, 155, 155);
+}
+.card{
+    float: left;
+    margin-left: 10%;
+}
+#hunger_index{
+    height: auto;
+}
+.para{
+    padding-top: 5px;
+    padding-left: 25px;
+    font-weight: bold;
+    font-size: large;
+    background-color: darkcyan;
+}
+
+#footer{
+    background-color: lightgrey;
+    height: 300px;
+}
